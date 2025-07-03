@@ -29,7 +29,7 @@ I wrote this project line by line, with the goal of not just getting it to work,
 ## How to run the project
 
 1. Clone the repository:
-git clone https://github.com/yourusername/mnist-digit-classifier.git
+git clone 
 cd mnist-digit-classifier
 
 2. Install the dependencies:
