@@ -29,8 +29,8 @@ I wrote this project line by line, with the goal of not just getting it to work,
 ## How to run the project
 
 1. Clone the repository:
-git clone 
-cd mnist-digit-classifier
+git clone https://github.com/karata-ai/MNIST-Digit-Classifier-PyTorch
+cd MNIST-Digit-Classifier-PyTorch
 
 2. Install the dependencies:
 pip install -r requirements.txt
